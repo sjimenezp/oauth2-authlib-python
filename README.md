@@ -9,6 +9,6 @@ To use OAuth2/OpenID Connect authentication, you need to obtain client credentia
 ```python
 # config.py
 
-CLIENT_ID = 'your_client_id'
-CLIENT_SECRET = 'your_client_secret'
+TEST_WEB_APP_CLIENT_ID = 'your_client_id'
+TEST_WEB_APP_CLIENT_SECRET = 'your_client_secret'
 ```
